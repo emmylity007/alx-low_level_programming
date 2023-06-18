@@ -1,7 +1,10 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - A c program that prints a line to the standard error
+ * main - Entry point
+  * Description: 'the program prints line to the standard error'
+ * @parameter: describe the parameter
+ *
  * Return 1;(Success)
  */
 int main(void)
