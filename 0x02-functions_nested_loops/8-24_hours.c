@@ -2,7 +2,7 @@
 
 /**
  * Jack_bauer - Prints every minutes of the day of Jack Bauer
- * Return: ...
+ * Return: time formart
  */
 
 void jack_bauer(void)
