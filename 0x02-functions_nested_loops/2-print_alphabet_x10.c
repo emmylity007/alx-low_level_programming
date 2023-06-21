@@ -1,8 +1,10 @@
 #include "main.h"
+
 /**
  * print_alphabet_x10 - Create x10 aphabets
  * Return: void
  */
+
 void print_alphabet_x10(void)
 {
 	char c;
