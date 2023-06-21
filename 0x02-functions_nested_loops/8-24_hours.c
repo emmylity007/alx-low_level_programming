@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * Jack_bauer - Prints every minutes of the day of Jack Bauer
+ * ack_bauer - Prints every minutes of the day of Jack Bauer
  * Return: time formart
  */
 
