@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * ack_bauer - Prints every minutes of the day of Jack Bauer
- * Return: time formart
- */
-
+  * jack_bauer - Prints every minute of the day of Jack Bauer
+  *
+  * Return: ...
+  */
 void jack_bauer(void)
 {
 	int a, b, c, d;
